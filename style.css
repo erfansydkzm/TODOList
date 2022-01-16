@@ -1,0 +1,4 @@
+.list-group-item>span,
+.list-group-item>img {
+    cursor: pointer;
+}
